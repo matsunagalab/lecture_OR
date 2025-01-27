@@ -9,3 +9,6 @@
 
 ## ソルバ03：PuLPで整数計画問題を解く
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_OR/blob/main/solver03.ipynb)
+
+## 動的計画法の応用例
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_OR/blob/main/advanced.ipynb)
